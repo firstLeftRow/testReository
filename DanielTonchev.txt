@@ -1,1 +1,3 @@
 My name is:  Daniel Tonchev 
+size = 100
+email = danieltonchev@rocketmail.com
