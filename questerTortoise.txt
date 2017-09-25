@@ -2,4 +2,8 @@ Dimitar
 Pirdop
 Creating DIY stuff, explore.
 Because is the best.
-Update with Tortoise…
+////
+*Note that if you make changes too simple TortoiseGit may automatically merge them.
+?	Now try *Note that if you make changes too simple TortoiseGit may automatically merge them.
+Now try 
+*Note *Note *Note *Note 
