@@ -1,0 +1,2 @@
+int n = 50;
+string name = Pesho;
