@@ -1,3 +1,0 @@
-Name = Georgi
-Size = 100
-email = georgimihalkow@abv.bg
