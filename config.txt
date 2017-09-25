@@ -1,2 +1,3 @@
-int n = 50;
-string name = Pesho;
+Name = Georgi
+Size = 100
+email = georgimihalkow@abv.bg
