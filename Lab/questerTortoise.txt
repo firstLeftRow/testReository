@@ -1,0 +1,13 @@
+1.Dimitar
+2.Pirdop
+
+changing....
+
+3.Creating DIY stuff, explore.
+4.Because is the best.
+
+////
+*Note that if you make changes too simple TortoiseGit may automatically merge them.
+?	Now try *Note that if you make changes too simple TortoiseGit may automatically merge them.
+Now try 
+*Note *Note *Note *Note 
